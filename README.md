@@ -19,8 +19,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ```
-Developed by : Manoj Kumar S
-Reg.No: 212221230056
+Developed by : Subramaniya Pillai B
+Reg.No: 212221230109
 ```
 
 ```python
